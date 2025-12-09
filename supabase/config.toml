@@ -1,0 +1,7 @@
+project_id = "krbijpbrmbkcrxtintkc"
+
+[functions.process-mobile-payment]
+verify_jwt = false
+
+[functions.process-card-payment]
+verify_jwt = false
